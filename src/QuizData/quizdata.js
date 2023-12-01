@@ -4,7 +4,6 @@ export const quizQuestions = [
     question: "What is the correct command to create a new React project?",
     answers: [
       {
-        
         id: 1,
         ans: "npx create-react-app",
         isCorrect: false,
