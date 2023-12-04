@@ -1,4 +1,5 @@
 export const quizQuestions = [
+  
   {
     id: 1,
     question: "What is the correct command to create a new React project?",
