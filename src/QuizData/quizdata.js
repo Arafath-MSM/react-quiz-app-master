@@ -5,6 +5,7 @@ export const quizQuestions = [
     answers: [
       {
         id: 1,
+        
         ans: "npx create-react-app",
         isCorrect: false,
       },
